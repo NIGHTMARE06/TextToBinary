@@ -1,2 +1,2 @@
 # TextToBinary
-Un script para traducir ASCII en binario y viceversa
+Este script funciona con Python 3.5, eso es todo lo que necesitas para ejecutarlo :D
